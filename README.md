@@ -1,1 +1,3 @@
-# richieez.github.io
+# Richie's Portfolio
+
+Hello and welcome!
